@@ -117,13 +117,14 @@ body, html {
     min-width: 590px;
     position: absolute;
     height: 500px;
-    padding: 25px;
+    padding: 30px;
+    margin-top: 70px;
   }
   .container2{
     padding: 30px 30px 50px;
     border-radius: 10px;
     background-color: #f8fff8;
-    box-shadow: 0 20px 30px rgba(230, 230, 230, 0.2);
+    box-shadow: 0 20px 30px rgba(211, 10, 177, 0.2);
     padding-bottom: 100px;
 } 
 
